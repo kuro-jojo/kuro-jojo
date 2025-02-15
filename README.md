@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuro-jojo&label=Profile%20views&color=0e75b6&style=flat" alt="kuro-jojo" /> </p>
 
-- 🌱 I’m currently learning **DevOps Tools (Jenkins, Ansible, Terraform...) & Java**
+- 🌱 I’m currently learning **Java & some DevOps Tools (Jenkins, Ansible, Terraform...)**
 
 - 👨‍💻 All of my projects are available at [https://kuro-jojo.github.io/portfolio/](https://kuro-jojo.github.io/portfolio/)
 
