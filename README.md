@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A software engineer</h3>
+<h3 align="center">A DevOps engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuro-jojo&label=Profile%20views&color=0e75b6&style=flat" alt="kuro-jojo" /> </p>
 
-- 🌱 I’m currently learning **Java - Angular & some DevOps Tools (Jenkins, Ansible, Terraform...)**
+- 🌱 I’m currently learning **AWS, Ansible, Terraform**
 
 - 👨‍💻 All of my projects are available at [https://kuro-jojo.github.io/portfolio/](https://kuro-jojo.github.io/portfolio/)
 
